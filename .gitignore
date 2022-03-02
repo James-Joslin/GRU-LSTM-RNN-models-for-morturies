@@ -1,0 +1,15 @@
+csvData/*
+!csvData/.keep
+
+forecasted/*
+!forecasted/.keep
+
+model/*
+!model/.keep
+
+old_models/*
+!old_models/.keep
+
+Model_Backup/*
+
+*.png
